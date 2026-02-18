@@ -8,7 +8,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neokaos503&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neokaos503&show_icons=true&theme=tokyonight)
+
 
 ---
 
@@ -20,7 +21,8 @@
 
 ## 🧠 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neokaos503&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=neokaos503&layout=compact&theme=tokyonight)
+
 
 ---
 
