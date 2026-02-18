@@ -1,36 +1,63 @@
-# 👋 Hola, soy Willian Morales
+# Willian Morales
 
-💻 Fullstack Developer  
-🚀 Enfocado en React, Next.js y Node.js  
-🌎 El Salvador  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neokaos503&show_icons=true&theme=tokyonight)
-
+Fullstack Developer | React • Next.js • Node.js  
+El Salvador | Open to Remote Opportunities  
 
 ---
 
-## 🔥 Streak Stats
+## About Me
 
-![GitHub Streak](https://streak-stats.demolab.com?user=neokaos503&theme=radical)
+Fullstack developer with experience building scalable web applications using modern JavaScript technologies.  
+Focused on clean architecture, performance optimization, and maintainable codebases.
 
----
-
-## 🧠 Top Languages
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=neokaos503&layout=compact&theme=tokyonight)
-
+Currently open to remote roles where I can contribute to product-driven teams.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+Frontend:
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+
+Backend:
+- Node.js
+- Express
+- REST APIs
+- PostgreSQL
+
+Tools:
+- Git & GitHub
+- CI/CD
+- Docker (basic)
+- Vercel
 
 ---
+
+## Selected Projects
+
+### Dashboard Application
+Scalable admin dashboard built with Next.js and PostgreSQL.  
+Authentication, role-based access, and server-side rendering.
+
+### REST API Service
+Express-based API with JWT authentication and structured architecture.
+
+---
+
+## GitHub Overview
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neokaos503&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=neokaos503&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333)
+
+---
+
+## Contact
+
+LinkedIn: (add here)  
+Email: (add here)  
+
+Open to remote fullstack or frontend-focused roles.
